@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "Hash": "CTsDd2QTeShQQS9gYN96A3Tp8xOJPrC0Rzd3laznaZc=",
+  "Source": "ImageUpload",
+  "BasePath": "_content/ImageUpload",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "ImageUpload\\wwwroot",
+      "Source": "ImageUpload",
+      "ContentRoot": "C:\\Users\\harshitsharma\\source\\repos\\ImageUpload\\ImageUpload\\wwwroot\\",
+      "BasePath": "_content/ImageUpload",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\harshitsharma\\source\\repos\\ImageUpload\\ImageUpload\\wwwroot\\Upload\\OIP.jpg",
+      "SourceId": "ImageUpload",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\harshitsharma\\source\\repos\\ImageUpload\\ImageUpload\\wwwroot\\",
+      "BasePath": "_content/ImageUpload",
+      "RelativePath": "Upload/OIP.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Upload\\OIP.jpg"
+    }
+  ]
+}
